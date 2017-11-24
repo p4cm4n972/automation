@@ -26,8 +26,8 @@ casper.each(urls, function (self, item, index) {
 
                 results.push({
                     name: name,
-                    images: images,
-                    modeles: tableau
+                    pictures: images,
+                    series: tableau
                 })
             }
             return results;
