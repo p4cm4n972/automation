@@ -1,0 +1,673 @@
+[
+	{
+		"categories": "Desktop-Type Ethernet Switch",
+		"modele": [
+			{
+				"images": "http://www.oringnet.com/upload/website/products/352/middle/20151215175020_761198.png",
+				"modeles": [
+					"DES-3082GP-AIO_S Series",
+					"DGS-9168GP-AIO_S Series",
+					"DGS-9812GP-AIO_S Series",
+					"DGS-R9812GP-AIO_S Series"
+				],
+				"name": "Desktop Type Bypass Ethernet Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/578/middle/20151217111236_433183.jpg",
+				"modeles": [
+					"DES-3073GC-P Series",
+					"DES-3082GP-AIO_S Series",
+					"DES-3082GP-P Series"
+				],
+				"name": "Desktop-Type Fast Ethernet Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/364/middle/20151216091935_359504.png",
+				"modeles": [
+					"DGS-R9812GP-AIO_S Series"
+				],
+				"name": "Layer 3 Gigabit Bypass Ethernet Switch"
+			}
+		]
+	},
+	{
+		"categories": "Card-Type Ethernet Switch",
+		"modele": [
+			{
+				"images": "http://www.oringnet.com/upload/website/products/561/middle/20151217103403_329858.png",
+				"modeles": [
+					"IGCS-E131GP",
+					"IGCS-E140"
+				],
+				"name": "PCIe Ethernet Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/945/middle/20160714171033_336424.png",
+				"modeles": [
+					"IGPCS-E131GP",
+					"IGPCS-E140"
+				],
+				"name": "PCIe PoE Ethernet Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/565/middle/20151217115508_488181.png",
+				"modeles": [
+					"ICS-4040"
+				],
+				"name": "PCI Ethernet Switch"
+			}
+		]
+	},
+	{
+		"categories": "Industrial Media Converter",
+		"modele": [
+			{
+				"images": "http://www.oringnet.com/upload/website/products/381/middle/20151216094145_781198.png",
+				"modeles": [
+					"RGMC-111GPB",
+					"RMC-1000",
+					"RMC-111FB Series",
+					"RMC-111PB",
+					"RMC-121FB Series",
+					"RPM-130-AC"
+				],
+				"name": "Rack-Mount Modular Media Converter"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/391/middle/20151216110153_562397.png",
+				"modeles": [
+					"IGMC-1011GF Series",
+					"IGMC-1011GP",
+					"IGMC-111GP",
+					"IGMC-111GPB",
+					"IMC-111FB Series",
+					"IMC-111PB",
+					"IMC-121FB Series",
+					"IMC-P111FX Series",
+					"IMC-P111P Series",
+					"IPMC-111PB Series",
+					"ITGMC-111GP+"
+				],
+				"name": "Din-Rail Ethernet Media Converter"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/921/middle/20160628103029_463239.png",
+				"modeles": [
+					"IGPMC-111GP",
+					"IPMC-111PB"
+				],
+				"name": "PoE Ethernet to Fiber Media Converter"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/435/middle/20151216150110_165707.png",
+				"modeles": [
+					"IMC-B111ETB Series",
+					"IMC-V111ET-TB"
+				],
+				"name": "Ethernet Extender Media Converter"
+			}
+		]
+	},
+	{
+		"categories": "Industrial Serial Products",
+		"modele": [
+			{
+				"images": "http://www.oringnet.com/upload/website/products/879/middle/20160330132417_210769.png",
+				"modeles": [
+					"RDS-3086G",
+					"RDS-3166G",
+					"RDS-P3000 Series"
+				],
+				"name": "Rack-Mount Serial Device Server"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/1029/middle/20170428110029_445022.png",
+				"modeles": [
+					"IDS-242GT-I+",
+					"IDS-312 Series",
+					"IDS-322 Series",
+					"IDS-342 Series",
+					"IDS-342GT Series"
+				],
+				"name": "Serial Device Server"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/944/middle/20160714141121_558373.png",
+				"modeles": [
+					"TDS-5041-I-M12"
+				],
+				"name": "EN50155 Device Server"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/889/middle/20160422140905_953391.jpg",
+				"modeles": [
+					"IDS-1112",
+					"IDS-4312 Series"
+				],
+				"name": "Wireless Serial Device Server"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/430/middle/20151216143755_852546.png",
+				"modeles": [
+					"ISC-1210U-I",
+					"ISC-1310FB Series",
+					"ISC-1310U-I",
+					"ISC-4110U",
+					"ISC-8110U"
+				],
+				"name": "Serial USB Converters"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/896/middle/20160426103321_254529.jpg",
+				"modeles": [
+					"ISC-1112 Series",
+					"ISC-1212-I",
+					"ISC-1310FR Series",
+					"ISC-1310FW-SS Series"
+				],
+				"name": "Serial Media Converters"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/1043/middle/20170628173136_526552.png",
+				"modeles": [
+					"PCard 2-port low profile",
+					"PCard 2-port Low Profile with Isolation",
+					"PCard 2-port standard",
+					"PCard 2-port Standard with Isolation",
+					"PCard 4-port low profile",
+					"PCard 4-port Low Profile with Isolation"
+				],
+				"name": "PC Cards"
+			}
+		]
+	},
+	{
+		"categories": "Industrial Wireless Access Point",
+		"modele": [
+			{
+				"images": "http://www.oringnet.com/upload/website/products/447/middle/20151216155311_422030.png",
+				"modeles": [
+					"IAP-420 Series",
+					"IAP-620 Series",
+					"IGAP-420 Series",
+					"IGAP-620 Series",
+					"IGAP-6620 Series",
+					"IGAP-820 / IGAP-820+"
+				],
+				"name": "Din-Rail Wireless Access Point"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/463/middle/20151217095518_673618.png",
+				"modeles": [
+					"IAP-W42X Series",
+					"IAP-W52X Series",
+					"TGAP-W610+ Series",
+					"TGAP-W6610+ Series"
+				],
+				"name": "IP-67 Wireless Access Point"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/484/middle/20151216164337_917360.png",
+				"modeles": [
+					"TGAP-620-M12 Series",
+					"TGAP-6620-M12 Series"
+				],
+				"name": "EN50155 Wireless Access Point"
+			}
+		]
+	},
+	{
+		"categories": "Industrial M2M Gateway",
+		"modele": [
+			{
+				"images": "http://www.oringnet.com/upload/website/products/1024/middle/20170911164529_989890.jpg",
+				"modeles": [
+					"IMG-4312-3G series",
+					"IMG-4312-4G series",
+					"IMG-6322GT-3G Series",
+					"IMG-6322GT-4G Series",
+					"IMG-W6121+ Series"
+				],
+				"name": "Din-Rail M2M Gateway"
+			}
+		]
+	},
+	{
+		"categories": "Industrial Solution - Railway",
+		"modele": [
+			{
+				"images": "http://www.oringnet.com/upload/website/products/134/middle/20151214152809_125368.png",
+				"modeles": [
+					"IGPS-9842GTP Series",
+					"TES-1080-M12 Series",
+					"TES-150-M12",
+					"TES-180-M12",
+					"TES-250-M12",
+					"TES-3080-M12 Series",
+					"TES-3082GT-M12-BP1",
+					"TES-3162GT-M12-BP1",
+					"TGS-1080-M12 Series",
+					"TGS-9120-M12 Series",
+					"TGS-9200-M12 Series",
+					"TSPL-101GT-M12 Series"
+				],
+				"name": "EN50155 Ethernet Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/165/middle/20151214172635_352332.png",
+				"modeles": [
+					"TGPS-1080-M12 Series",
+					"TGPS-9080-M12A-MV",
+					"TGPS-9084GT-M12 Series",
+					"TGPS-9164GT-M12 Series",
+					"TGPS-9168GT-M12",
+					"TGXPS-141GX-M12 Series",
+					"TPS-1080-M12 Series",
+					"TPS-141TX-M12 Series",
+					"TPS-3044TX-M12",
+					"TPS-3082GF-MM-M12-QODC",
+					"TPS-3082GT-M12 Series",
+					"TPS-3162GT-M12 Series",
+					"TPS-3882GT-M12 Series",
+					"TPS-9168GT-M12",
+					"TPS-B3082ET-M12-BP1",
+					"TXPS-141XT-M12 Series"
+				],
+				"name": "EN50155 PoE Ethernet Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/357/middle/20151215175319_776659.png",
+				"modeles": [
+					"DGS-9168GP-AIO_S Series",
+					"DGS-9812GP-AIO_S Series",
+					"DGS-R9812GP-AIO_S Series",
+					"IGPS-1042GP Series",
+					"IGPS-9084GP Series",
+					"IGPS-9842GTP Series",
+					"IGS 9084GP Series",
+					"IGS-1042GPA",
+					"IGS-3032GC",
+					"IGS-9084 Series",
+					"IGS-9084GP Series",
+					"IGS-9122GPM",
+					"IGS-9168GP",
+					"IGS-9812GP",
+					"IGS-9844GP Series",
+					"RGPS-92222GCP-NP Series",
+					"RGS-92222GCP-NP Series"
+				],
+				"name": "Ethernet Switch (Trackside & Station)"
+			}
+		]
+	},
+	{
+		"categories": "Industrial Solution - Oil and Gas",
+		"modele": [
+			{
+				"images": "http://www.oringnet.com/upload/website/products/597/middle/20151217112809_575338.png",
+				"modeles": [
+					"IES-A1062FX Series",
+					"IES-A1062GF Series",
+					"IES-A1062GT",
+					"IES-A1080",
+					"IES-A3062FX Series",
+					"IES-A3062GF Series",
+					"IES-A3080",
+					"IES-A3162GC"
+				],
+				"name": "C1D2/ATEX Switch"
+			}
+		]
+	},
+	{
+		"categories": "Industrial Solution - Power Sub Station",
+		"modele": [
+			{
+				"images": "http://www.oringnet.com/upload/website/products/43/middle/20151214093228_136922.png",
+				"modeles": [
+					"IES-P3073GC Series",
+					"IGS-P9164 Series",
+					"IGS-P9812GP Series",
+					"RES-P3242GCL Series",
+					"RGS-P9000 SERIES",
+					"RGS-P9160GCM2 Series",
+					"RGS-P9160M1 Series",
+					"RGS-PR9000 Series",
+					"RGS-PR9000-A Series"
+				],
+				"name": "IEC 61850-3 Ethernet Switch"
+			}
+		]
+	},
+	{
+		"categories": "Industrial Solution - PoE",
+		"modele": [
+			{
+				"images": "http://www.oringnet.com/upload/website/products/190/middle/20151215093549_503365.jpg",
+				"modeles": [
+					"RGPS-9084GP-P Series",
+					"RGPS-92222GCP-NP Series",
+					"RGPS-R9244GP+ Series",
+					"RGPS-R9244GP+Series"
+				],
+				"name": "Rack-Mount Gigabit PoE Ethernet Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/217/middle/20151215111000_974964.png",
+				"modeles": [
+					"IGPS-1042GP Series",
+					"IGPS-1080 Sereis",
+					"IGPS-1080-24V Series",
+					"IGPS-1082GP Series",
+					"IGPS-1411GTP Sereis",
+					"IGPS-9042GP-24V",
+					"IGPS-9080 Series",
+					"IGPS-9842GTP Series",
+					"IGPS-R9084GP"
+				],
+				"name": "Din-Rail Gigabit PoE Ethernet Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/62/middle/20151214100757_262661.jpg",
+				"modeles": [
+					"IPS-1042F Series",
+					"IPS-1080 Series",
+					"IPS-2042 Series",
+					"IPS-3082GC Series"
+				],
+				"name": "Din-Rail Fast PoE Ethernet Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/921/middle/20160628103029_463239.png",
+				"modeles": [
+					"IGPMC-111GP",
+					"IPMC-111PB",
+					"IPMC-111PB Series"
+				],
+				"name": "Din-Rail PoE Media Converter"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/218/middle/20151215111337_603085.png",
+				"modeles": [
+					"IGPS-1042GP Series",
+					"IGPS-1080-24V Series",
+					"IGPS-1082GP Series",
+					"IGPS-1411GTP Sereis",
+					"IGPS-9042GP-24V",
+					"IGPS-9080 Series",
+					"IGPS-9842GTP Series",
+					"INJ-102GT Series",
+					"INJ-102GT++ Series",
+					"IPS-1042F Series",
+					"IPS-1080 Series",
+					"IPS-3082GC Series"
+				],
+				"name": "24VDC Power Input Switch and Injector"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/1049/middle/20170629162314_874961.png",
+				"modeles": [
+					"INJ-101GT++-60W",
+					"INJ-102GT Series",
+					"INJ-102GT++ Series",
+					"PET-102GT++",
+					"SPL-101GT series",
+					"SPL-101GT++ series"
+				],
+				"name": "Din-Rail PoE Injector and Splitter"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/620/middle/20151221092941_528316.jpg",
+				"modeles": [
+					"TINJ-101-M12 Series",
+					"TINJ-101GT-M12 Series",
+					"TSPL-101GT-M12 Series"
+				],
+				"name": "EN50155 Certified Injector & Splitter"
+			}
+		]
+	},
+	{
+		"categories": "Management Software & Accessories",
+		"modele": null
+	},
+	{
+		"categories": "Industrial VPN Router",
+		"modele": [
+			{
+				"images": "http://www.oringnet.com/upload/website/products/509/middle/20151216172925_738443.png",
+				"modeles": [
+					"IGR-20 Series"
+				],
+				"name": "Din-Rail VPN Router"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/492/middle/20151216165527_418859.png",
+				"modeles": [
+					"IAR-142-3G Series",
+					"IGAR-1062+-3G Series",
+					"IGAR-1662+-3G Series",
+					"IGAR-2062+-3G Series"
+				],
+				"name": "Din-Rail 3.5G Cellular Router"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/511/middle/20151216173322_494707.jpg",
+				"modeles": [
+					"IAR-142-4G Series",
+					"IGAR-1062+-4G Series",
+					"IGAR-2062+-4G Series"
+				],
+				"name": "Din-Rail 4G LTE Cellular Router"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/1015/middle/20170330135411_698576.png",
+				"modeles": [
+					"TAR-620-M12-MV",
+					"TGAR-1062+-3GS-M12 Series",
+					"TGAR-1662+-3GS-M12 Series",
+					"TGAR-2062+-3GS-M12 Series"
+				],
+				"name": "EN50155 3.5G Cellular Router"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/1125/middle/20170925170043_120688.png",
+				"modeles": [
+					"TGAR-1062+-4G6S-M12",
+					"TGAR-1062+-4GS-M12 Series",
+					"TGAR-1662+-4GS-M12 Series",
+					"TGAR-2062+-4GS-M12 Series"
+				],
+				"name": "EN50155 4G LTE Cellular Router"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/537/middle/20151217093401_381678.png",
+				"modeles": [
+					"TGAR-W1061+-3G Series"
+				],
+				"name": "IP-67 EN50155 3.5G Cellular Router"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/553/middle/20151217101946_747238.png",
+				"modeles": [
+					"TGAR-W1061+-4G Series"
+				],
+				"name": "IP-67 EN50155 4G LTE Cellular Router"
+			}
+		]
+	},
+	{
+		"categories": "Industrial Ethernet Switch",
+		"modele": [
+			{
+				"images": "http://www.oringnet.com/upload/website/products/633/middle/20151221101904_855195.png",
+				"modeles": [
+					"RES-1242P Series",
+					"RES-9242GC Series",
+					"RES-P3242GCL Series",
+					"RGPS-9084GP-P Series",
+					"RGPS-92222GCP-NP Series",
+					"RGPS-R9244GP+ Series",
+					"RGPS-R9244GP+Series",
+					"RGS-9168GCP Series",
+					"RGS-92222GCP-NP Series",
+					"RGS-P9000 SERIES",
+					"RGS-P9160GCM2 Series",
+					"RGS-P9160M1 Series",
+					"RGS-PR9000 Series",
+					"RGS-PR9000-A Series",
+					"RGS-R9244GP+ Series"
+				],
+				"name": "Rack-Mount Ethernet Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/912/middle/20160616141814_545069.png",
+				"modeles": [
+					"RGS-P9000/PR9000/P9160 Series Module",
+					"RGS-PR9000-A Series"
+				],
+				"name": "Rack-Mount Switch Modular"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/217/middle/20151215111000_974964.png",
+				"modeles": [
+					"IGPS-1042GP Series",
+					"IGPS-1080 Sereis",
+					"IGPS-1080-24V Series",
+					"IGPS-1082GP Series",
+					"IGPS-1411GTP Sereis",
+					"IGPS-9042GP-24V",
+					"IGPS-9080 Series",
+					"IGPS-9084GP Series",
+					"IGPS-9842GTP Series",
+					"IGPS-R9084GP",
+					"IGS-1041GPA",
+					"IGS-1042GPA",
+					"IGS-1050A",
+					"IGS-1080A",
+					"IGS-1082GP",
+					"IGS-150B",
+					"IGS-3032GC",
+					"IGS-3044GC",
+					"IGS-9042GP",
+					"IGS-9080",
+					"IGS-9084 Series",
+					"IGS-9122GP",
+					"IGS-9122GPM",
+					"IGS-9164 Series",
+					"IGS-9168GP",
+					"IGS-9812GP",
+					"IGS-9844GP Series",
+					"IGS-P9164 Series",
+					"IGS-P9812GP Series",
+					"IGS-R9812GP"
+				],
+				"name": "Din-Rail Gigabit Ethernet Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/1116/middle/20170926172654_336143.jpg",
+				"modeles": [
+					"IGS-9122GPM Series"
+				],
+				"name": "Din-Rail Ethernet Switch Module"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/property/index/20140108114310_989755.jpg",
+				"modeles": [
+					"IES-1041FX Series",
+					"IES-1042FX Series",
+					"IES-1050",
+					"IES-1050A",
+					"IES-1062FX Series",
+					"IES-1062GF Series",
+					"IES-1062GT",
+					"IES-1080",
+					"IES-1080A",
+					"IES-1082GP",
+					"IES-1142P",
+					"IES-1160",
+					"IES-1162GC",
+					"IES-1240",
+					"IES-150B",
+					"IES-162FX-L Series",
+					"IES-180-L",
+					"IES-180B",
+					"IES-2042FX Series",
+					"IES-2042PA",
+					"IES-2050-M12",
+					"IES-2050A",
+					"IES-2060",
+					"IES-3062FX Series",
+					"IES-3062GF Series",
+					"IES-3062GT",
+					"IES-3073GC",
+					"IES-3080",
+					"IES-3082GC",
+					"IES-3082GP",
+					"IES-3160",
+					"IES-3162GC",
+					"IES-3240",
+					"IES-A1062FX Series",
+					"IES-A1062GF Series",
+					"IES-A1062GT",
+					"IES-A1080",
+					"IES-A3062FX Series",
+					"IES-A3062GF Series",
+					"IES-A3062GT",
+					"IES-A3080",
+					"IES-A3162GC",
+					"IES-P3073GC Series",
+					"IPS-1042F Series",
+					"IPS-1080 Series",
+					"IPS-2042 Series",
+					"IPS-3082GC Series"
+				],
+				"name": "Din-Rail Fast Ethernet Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/351/middle/20151215174754_310462.png",
+				"modeles": [
+					"IES-3082GC",
+					"IGPS-1042GP Series",
+					"IGPS-9084GP Series",
+					"IGS 9084GP Series",
+					"IGS-3032GC",
+					"IGS-9084 Series",
+					"IGS-9084GP Series",
+					"IGS-9168GP",
+					"IGS-9812GP",
+					"IGS-9844GP Series",
+					"IGS-P9164 Series"
+				],
+				"name": "Din-Rail EN50155 Ethernet Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/352/middle/20151215175020_761198.png",
+				"modeles": [
+					"DES-3082GP-AIO_S Series",
+					"DGS-9168GP-AIO_S Series",
+					"DGS-9812GP-AIO_S Series",
+					"DGS-R9812GP-AIO_S Series",
+					"IBS-102FX Series",
+					"IGS 9084GP Series",
+					"IGS-9084GP Series"
+				],
+				"name": "Optical Fiber Bypass Switch"
+			},
+			{
+				"images": "http://www.oringnet.com/upload/website/products/364/middle/20151216091935_359504.png",
+				"modeles": [
+					"DGS-R9812GP-AIO_S Series",
+					"IGPS-R9084GP",
+					"IGS-R9812GP",
+					"RGPS-R9244GP+ Series",
+					"RGPS-R9244GP+Series",
+					"RGS-PR9000 Series",
+					"RGS-PR9000-A Series",
+					"RGS-R9244GP+ Series"
+				],
+				"name": "Layer 3 Ethernet Switch"
+			}
+		]
+	}
+]
