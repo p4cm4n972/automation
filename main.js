@@ -21,7 +21,8 @@ casper.each(urls, function (self, item, index) {
 
                 for (var indice = 0; indice < modele.length; indice++) {
                     var modeles = modele[indice].innerText;
-                    tableau.push(modeles);
+                    var links = modele[indice].href;
+                    tableau.push({modeles:modeles,liens: links});
                 }
 
                 results.push({
