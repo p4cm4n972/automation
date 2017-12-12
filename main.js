@@ -41,8 +41,7 @@ casper.each(urls, function (self, item, index) {
             'modele': results
         }
         catalogue.push(currentItem);
-        /*console.log(title);
-        console.log(image);*/
+        
 
 
     });
